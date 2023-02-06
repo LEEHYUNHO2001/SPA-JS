@@ -1,0 +1,11 @@
+{
+  "name": "spa-javascript",
+  "version": "1.0.0",
+  "description": "create spa project with javascript",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  }
+}
