@@ -2,6 +2,7 @@ import Home from "./pages/Home.js";
 import Login from "./pages/Login.js";
 import NotFound from "./pages/NotFound.js";
 import Rigister from "./pages/Rigister.js";
+// import "../css/index.css";
 
 const router = async () => {
   const routes = [
