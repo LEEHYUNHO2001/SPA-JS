@@ -7,8 +7,8 @@
   "scripts": {
     "test": "jest",
     "start": "webpack serve",
-    "dev": "nodemon server.js",
-    "build": "webpack"
+    "dev": "webpack-dev-server",
+    "build": "webpack --mode=production"
   },
   "dependencies": {
     "express": "^4.18.2",
